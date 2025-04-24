@@ -1,8 +1,0 @@
-24-05-24 09:55 Session started
-----------------------------------------
-09:55:45 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
-----------------------------------------
-09:55:53 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
-----------------------------------------
-09:55:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
-----------------------------------------
