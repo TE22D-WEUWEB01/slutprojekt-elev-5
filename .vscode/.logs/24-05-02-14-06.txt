@@ -1,0 +1,46 @@
+24-05-02 14:06 Session started
+----------------------------------------
+15:34:23 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+15:34:47 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+15:34:51 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+15:34:53 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+15:34:54 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+15:34:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+15:34:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+15:35:04 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+15:44:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+15:44:57 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+16:08:44 000:000 > h
+16:08:44 000:001 > ha
+16:08:45 000:002 > har
+16:08:45 000:004 > har j
+16:08:45 000:005 > har jo
+16:08:45 000:006 > har job
+16:08:45 000:007 > har jobb
+16:08:45 000:008 > har jobba
+16:08:45 000:009 > har jobbat
+16:08:46 000:011 > har jobbat p
+16:08:46 000:012 > har jobbat på
+16:08:47 000:014 > har jobbat på p
+16:08:47 000:015 > har jobbat på pr
+16:08:47 000:016 > har jobbat på pro
+16:08:47 000:017 > har jobbat på proj
+16:08:47 000:018 > har jobbat på proje
+16:08:47 000:019 > har jobbat på projek
+16:08:47 000:020 > har jobbat på projekt
+16:08:48 000:021 > har jobbat på projektp
+16:08:48 000:022 > har jobbat på projektpl
+16:08:48 000:023 > har jobbat på projektpla
+16:08:48 000:024 > har jobbat på projektplan
+16:08:48 000:025 > har jobbat på projektplane
+16:08:48 000:026 > har jobbat på projektplanen

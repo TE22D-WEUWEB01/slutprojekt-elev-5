@@ -1,0 +1,1282 @@
+24-05-21 20:23 Session started
+----------------------------------------
+20:23:52 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:23:58 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:23:59 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:24:06 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:24:07 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:24:23 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:24:33 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:24:34 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:24:43 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:24:47 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+
+20:24:50 020:008 > <
+20:24:50 020:009 > <d
+20:24:50 020:010 > <di
+20:24:50 020:011 > <div
+20:24:51 020:011 > <div<
+20:24:54 020:008 > <div<.
+20:24:54 020:009 > <div<.c
+20:24:54 020:010 > <div<.co
+20:24:55 020:011 > <div<.con
+20:24:55 020:012 > <div<.cont
+20:24:55 020:013 > <div<.conta
+20:24:55 020:008 > <div class="conta"></div>
+20:24:57 020:025 > c
+20:24:57 020:026 > ct
+
+20:25:00 021:010 > <
+20:25:00 021:011 > <f
+20:25:00 021:012 > <fo
+20:25:04 021:011 > form
+20:25:05 021:015 > >
+20:25:05 021:016 > </form>
+
+20:25:07 022:012 > <
+20:25:10 022:013 > <n
+20:25:21 022:012 > <n<
+20:25:22 022:013 > <n<t
+20:25:22 022:014 > <n<te
+20:25:42 022:012 > <n<te<
+20:25:43 022:013 > <n<te<i
+20:25:43 022:014 > <n<te<in
+20:25:44 022:012 > <n<te<ini
+20:25:44 022:013 > <n<te<inin
+20:25:44 022:014 > <n<te<ininp
+20:25:44 022:015 > <n<te<ininpu
+20:25:45 022:016 > <n<te<ininput
+20:25:56 022:012 > <input type="text" name="" id="">
+20:26:26 022:037 > f
+20:26:27 022:038 > fi
+20:26:27 022:039 > fir
+20:26:27 022:040 > firs
+20:26:27 022:041 > first
+20:26:31 022:012 > first<
+20:26:32 022:013 > first<l
+20:26:32 022:014 > first<la
+20:26:33 022:013 > label
+20:26:36 022:012 > l
+20:26:36 022:013 > la
+20:26:36 022:014 > lab
+20:26:37 022:012 > <label for=""></label>
+20:26:39 022:024 > f
+20:26:40 022:025 > fi
+20:26:40 022:026 > fir
+20:26:40 022:027 > firs
+20:26:40 022:028 > first
+20:26:52 022:029 > firstn
+20:26:52 022:030 > firstna
+20:26:52 022:031 > firstnam
+20:26:52 022:032 > firstname
+
+20:26:55 023:042 > n
+20:26:55 023:043 > na
+20:26:55 023:044 > nam
+20:26:55 023:045 > name
+
+20:26:58 022:035 > F
+20:26:59 022:036 > Fö
+20:26:59 022:037 > För
+20:26:59 022:038 > Förn
+20:27:00 022:039 > Förna
+20:27:00 022:040 > Förnam
+20:27:00 022:041 > Förnamn
+20:27:04 022:042 > Förnamn:
+
+20:28:30 023:052 > f
+20:28:30 023:053 > fi
+20:28:30 023:054 > fir
+20:28:30 023:055 > firs
+20:28:30 023:056 > first
+20:28:31 023:057 > firstn
+20:28:31 023:058 > firstna
+20:28:31 023:059 > firstnam
+20:28:31 023:060 > firstname
+
+20:28:44 022:043 > o
+20:28:44 022:044 > oc
+20:28:44 022:045 > och
+20:28:44 022:047 > och e
+20:28:44 022:048 > och ef
+20:28:45 022:049 > och eft
+20:28:45 022:050 > och efte
+20:28:45 022:051 > och efter
+20:28:45 022:052 > och efters
+20:28:46 022:052 > och eftersn
+20:28:46 022:053 > och eftersna
+20:28:46 022:054 > och eftersnam
+20:28:47 022:055 > och eftersnamn
+20:28:49 022:038 > och eftersnamn-
+20:28:49 022:040 > och eftersnamn- o
+20:28:49 022:041 > och eftersnamn- oc
+20:28:50 022:042 > och eftersnamn- och
+20:28:50 022:044 > och eftersnamn- och e
+20:28:50 022:045 > och eftersnamn- och ef
+20:28:50 022:046 > och eftersnamn- och eft
+20:28:50 022:047 > och eftersnamn- och efte
+20:28:51 022:048 > och eftersnamn- och efter
+20:28:51 022:049 > och eftersnamn- och eftern
+20:28:51 022:050 > och eftersnamn- och efterna
+20:28:51 022:051 > och eftersnamn- och efternam
+20:28:51 022:052 > och eftersnamn- och efternamn
+20:28:55 022:024 > och eftersnamn- och efternamnn
+20:28:55 022:025 > och eftersnamn- och efternamnna
+20:28:55 022:026 > och eftersnamn- och efternamnnam
+20:28:55 022:027 > och eftersnamn- och efternamnname
+
+20:28:58 023:037 > n
+20:28:58 023:038 > na
+20:28:58 023:039 > nam
+20:28:58 023:040 > name
+20:29:01 023:047 > namen
+20:29:02 023:048 > namena
+20:29:02 023:049 > namenam
+20:29:02 023:050 > namename
+
+20:29:06 024:012 > <
+20:29:07 024:013 > <l
+20:29:07 024:014 > <la
+20:29:07 024:013 > label
+20:29:11 024:012 > l
+20:29:11 024:013 > la
+20:29:12 024:012 > <label for=""></label>
+20:29:14 024:024 > e
+20:29:14 024:025 > em
+20:29:14 024:026 > ema
+20:29:15 024:027 > emai
+20:29:15 024:028 > email
+20:29:18 024:031 > emailE
+20:29:19 024:032 > emailEm
+20:29:19 024:033 > emailEma
+20:29:19 024:034 > emailEmai
+20:29:19 024:035 > emailEmail
+20:29:20 024:036 > emailEmail:
+
+20:29:24 025:012 > i
+20:29:24 025:013 > in
+20:29:24 025:014 > inp
+20:29:24 025:015 > inpu
+20:29:31 025:012 > <input type="email" name="" id="">
+20:29:33 025:038 > e
+20:29:33 025:039 > em
+20:29:33 025:040 > ema
+20:29:34 025:041 > emai
+20:29:34 025:042 > email
+20:29:36 025:049 > emaile
+20:29:36 025:050 > emailem
+20:29:36 025:051 > emailema
+20:29:36 025:052 > emailemai
+20:29:36 025:053 > emailemail
+
+20:29:49 022:057 > <
+20:29:50 022:058 > <b
+20:29:50 022:059 > <br
+20:29:50 022:060 > <br>
+20:29:54 024:045 > <br>
+20:30:37 023:053 > <br>
+
+20:30:48 021:000 > <
+20:30:58 021:010 > <<
+20:30:59 021:011 > <<h
+20:31:00 021:012 > <<h2
+20:31:00 021:013 > <<h2>
+20:31:00 021:014 > </h2>
+20:31:01 021:014 > V
+20:31:01 021:015 > Vi
+20:31:01 021:016 > Vil
+20:31:02 021:017 > Vill
+20:31:02 021:019 > Vill d
+20:31:02 021:020 > Vill du
+20:31:09 021:022 > Vill du s
+20:31:09 021:023 > Vill du st
+20:31:09 021:024 > Vill du stä
+20:31:10 021:025 > Vill du stäl
+20:31:10 021:026 > Vill du ställ
+20:31:10 021:027 > Vill du ställa
+20:31:11 021:029 > Vill du ställa e
+20:31:11 021:030 > Vill du ställa en
+20:31:12 021:032 > Vill du ställa en f
+20:31:12 021:033 > Vill du ställa en fr
+20:31:13 021:034 > Vill du ställa en frå
+20:31:13 021:035 > Vill du ställa en fråg
+20:31:13 021:036 > Vill du ställa en fråga
+20:31:16 021:037 > Vill du ställa en fråga?
+20:31:23 021:022 > Vill du ställa en fråga?k
+20:31:23 021:023 > Vill du ställa en fråga?ko
+20:31:23 021:024 > Vill du ställa en fråga?kon
+20:31:23 021:025 > Vill du ställa en fråga?kont
+20:31:23 021:026 > Vill du ställa en fråga?konta
+20:31:23 021:027 > Vill du ställa en fråga?kontak
+20:31:23 021:028 > Vill du ställa en fråga?kontakt
+20:31:23 021:029 > Vill du ställa en fråga?kontakta
+20:31:25 021:031 > Vill du ställa en fråga?kontakta o
+20:31:25 021:032 > Vill du ställa en fråga?kontakta os
+20:31:25 021:033 > Vill du ställa en fråga?kontakta oss
+20:31:25 021:034 > Vill du ställa en fråga?kontakta oss?
+
+20:31:54 022:010 > >
+20:31:55 022:010 > >p
+20:31:55 022:010 > <p></p>
+
+20:32:02 021:014 > K
+20:32:02 021:015 > Ko
+20:32:02 021:016 > Kon
+20:32:02 021:017 > Kont
+20:32:03 021:018 > Konta
+20:32:03 021:019 > Kontak
+20:32:03 021:020 > Kontakt
+20:32:03 021:021 > Kontakta
+20:32:03 021:023 > Kontakta o
+20:32:03 021:024 > Kontakta os
+20:32:04 021:025 > Kontakta oss
+
+20:32:07 022:013 > V
+20:32:07 022:014 > Vi
+20:32:07 022:015 > Vil
+20:32:07 022:016 > Vill
+20:32:08 022:018 > Vill d
+20:32:08 022:019 > Vill du
+20:32:08 022:021 > Vill du s
+20:32:08 022:022 > Vill du st
+20:32:08 022:023 > Vill du stä
+20:32:09 022:024 > Vill du stäl
+20:32:09 022:025 > Vill du ställ
+20:32:09 022:026 > Vill du ställa
+20:32:10 022:028 > Vill du ställa e
+20:32:10 022:029 > Vill du ställa en
+20:32:10 022:031 > Vill du ställa en f
+20:32:10 022:032 > Vill du ställa en fr
+20:32:11 022:033 > Vill du ställa en frå
+20:32:11 022:034 > Vill du ställa en fråg
+20:32:11 022:035 > Vill du ställa en fråga
+20:32:11 022:037 > Vill du ställa en fråga t
+20:32:11 022:038 > Vill du ställa en fråga ti
+20:32:11 022:039 > Vill du ställa en fråga til
+20:32:11 022:040 > Vill du ställa en fråga till
+20:32:12 022:042 > Vill du ställa en fråga till S
+20:32:12 022:043 > Vill du ställa en fråga till Sa
+20:32:12 022:044 > Vill du ställa en fråga till Sat
+20:32:12 022:045 > Vill du ställa en fråga till Satt
+20:32:13 022:046 > Vill du ställa en fråga till Satta
+20:32:13 022:047 > Vill du ställa en fråga till Sattar
+20:32:13 022:048 > Vill du ställa en fråga till Sattars
+20:32:13 022:050 > Vill du ställa en fråga till Sattars S
+20:32:13 022:051 > Vill du ställa en fråga till Sattars Sl
+20:32:13 022:052 > Vill du ställa en fråga till Sattars Sla
+20:32:14 022:053 > Vill du ställa en fråga till Sattars Slav
+20:32:14 022:054 > Vill du ställa en fråga till Sattars Slava
+20:32:14 022:055 > Vill du ställa en fråga till Sattars Slavar
+20:32:14 022:056 > Vill du ställa en fråga till Sattars Slavar?
+20:32:17 022:058 > Vill du ställa en fråga till Sattars Slavar? F
+20:32:17 022:059 > Vill du ställa en fråga till Sattars Slavar? Fy
+20:32:18 022:060 > Vill du ställa en fråga till Sattars Slavar? Fyl
+20:32:18 022:061 > Vill du ställa en fråga till Sattars Slavar? Fyll
+20:32:18 022:063 > Vill du ställa en fråga till Sattars Slavar? Fyll i
+20:32:20 022:065 > Vill du ställa en fråga till Sattars Slavar? Fyll i n
+20:32:20 022:066 > Vill du ställa en fråga till Sattars Slavar? Fyll i ne
+20:32:20 022:067 > Vill du ställa en fråga till Sattars Slavar? Fyll i ned
+20:32:20 022:068 > Vill du ställa en fråga till Sattars Slavar? Fyll i neda
+20:32:20 022:069 > Vill du ställa en fråga till Sattars Slavar? Fyll i nedan
+20:32:23 022:070 > Vill du ställa en fråga till Sattars Slavar? Fyll i nedan:
+
+20:32:34 029:012 > <
+20:32:36 029:012 > <l
+20:32:36 029:013 > <la
+20:32:37 029:012 > <label for=""></label>
+20:32:39 028:056 > <br>
+20:32:42 029:024 > m
+20:32:43 029:025 > me
+20:32:43 029:026 > mes
+20:32:43 029:027 > mess
+20:32:43 029:028 > messa
+20:32:43 029:029 > messag
+20:32:43 029:030 > message
+20:32:46 029:033 > messageM
+20:32:47 029:034 > messageMe
+20:32:47 029:035 > messageMed
+20:32:47 029:036 > messageMede
+20:32:49 029:036 > messageMeded
+20:32:49 029:037 > messageMedede
+20:32:49 029:038 > messageMededel
+20:32:49 029:039 > messageMededela
+20:32:49 029:040 > messageMededelan
+20:32:49 029:041 > messageMededeland
+20:32:49 029:042 > messageMededelande
+
+20:32:53 030:012 > i
+20:32:53 030:013 > in
+20:32:54 030:014 > inp
+20:32:54 030:015 > inpu
+20:32:57 030:012 > <input type="text" name="" id="">
+20:32:59 030:037 > 1
+20:32:59 030:038 > 10
+20:33:01 030:037 > 10m
+20:33:01 030:038 > 10me
+20:33:02 030:039 > 10mes
+20:33:02 030:040 > 10mess
+20:33:02 030:041 > 10messa
+20:33:02 030:042 > 10messag
+20:33:02 030:043 > 10message
+20:33:04 030:050 > 10messagem
+20:33:04 030:051 > 10messageme
+20:33:04 030:052 > 10messagemes
+20:33:04 030:053 > 10messagemess
+20:33:04 030:054 > 10messagemessa
+20:33:05 030:055 > 10messagemessag
+20:33:05 030:056 > 10messagemessage
+20:33:09 029:051 > <br>
+
+20:34:08 033:012 > i
+20:34:08 033:013 > in
+20:34:08 033:014 > inp
+20:34:08 033:015 > inpu
+
+20:35:25 032:019 > w
+20:35:25 032:020 > wi
+20:35:25 032:021 > wid
+20:35:25 032:022 > widh
+20:35:26 032:022 > widht
+20:35:26 032:023 > widhth
+20:35:27 032:024 > widhth =
+20:35:30 032:025 > ""
+20:35:32 032:026 > 2
+20:35:32 032:027 > 20
+20:35:32 032:028 > 200
+20:35:33 032:029 > 200p
+20:35:33 032:030 > 200px
+20:35:44 032:025 > ""
+20:35:46 032:026 > 6
+20:35:46 032:027 > 60
+20:35:46 032:028 > 600
+20:35:47 032:029 > 600p
+20:35:47 032:030 > 600px
+20:35:52 032:026 > 600px1
+20:35:52 032:027 > 600px10
+20:35:52 032:028 > 600px100
+20:36:56 032:019 > 600px100 l
+20:36:56 032:020 > 600px100 lc
+20:36:57 032:019 > 600px100 lcc
+20:36:57 032:020 > 600px100 lccl
+20:36:57 032:021 > 600px100 lccla
+20:36:57 032:022 > 600px100 lcclas
+20:36:57 032:023 > 600px100 lcclass
+20:36:57 032:019 > class=""
+20:36:59 032:026 > c
+20:37:12 032:026 > cm
+20:37:12 032:027 > cme
+20:37:12 032:028 > cmes
+20:37:13 032:029 > cmess
+20:37:13 032:030 > cmessa
+20:37:13 032:031 > cmessag
+20:37:13 032:032 > cmessage
+20:37:15 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:37:18 181:000 > /
+20:37:18 181:001 > /*
+20:37:19 181:002 > /*K
+20:37:19 181:003 > /*Ko
+20:37:19 181:004 > /*Kon
+20:37:20 181:005 > /*Kont
+20:37:20 181:006 > /*Konta
+20:37:20 181:007 > /*Kontak
+20:37:20 181:008 > /*Kontakt
+20:37:20 181:009 > /*Kontakta
+20:37:21 181:011 > /*Kontakta o
+20:37:21 181:012 > /*Kontakta os
+20:37:21 181:013 > /*Kontakta oss
+20:37:22 181:014 > /*Kontakta oss*
+20:37:22 181:015 > /*Kontakta oss*/
+
+20:37:24 182:000 > .
+20:37:26 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:37:28 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:37:29 182:000 > ..
+20:37:30 182:001 > ..c
+20:37:30 182:002 > ..co
+20:37:30 182:003 > ..con
+20:37:30 182:004 > ..cont
+20:37:30 182:005 > ..conta
+20:37:31 182:006 > ..contac
+20:37:31 182:007 > ..contact
+20:37:32 182:008 > {}
+
+20:37:34 186:000 > .
+20:37:36 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:37:45 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:37:45 186:001 > .f
+20:37:45 186:002 > .fo
+20:37:46 186:003 > .for
+20:37:46 186:004 > .form
+20:37:47 186:005 > []
+20:37:49 186:005 > {}
+
+20:37:54 190:000 > .
+20:37:56 190:001 > .f
+20:37:56 190:002 > .fo
+20:37:59 190:003 > .for
+20:37:59 190:004 > .form
+20:38:02 190:006 > .form i
+20:38:02 190:007 > .form in
+20:38:02 190:008 > .form inp
+20:38:03 190:009 > .form inpu
+20:38:03 190:010 > .form input
+20:38:03 190:011 > .form input.
+20:38:06 190:012 > .form input.m
+20:38:06 190:013 > .form input.me
+20:38:06 190:014 > .form input.mes
+20:38:06 190:015 > .form input.mess
+20:38:06 190:016 > .form input.messa
+20:38:07 190:017 > .form input.messag
+20:38:07 190:018 > .form input.message
+20:38:07 190:019 > {}
+20:38:10 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:38:12 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:38:16 191:002 > h
+20:38:16 191:003 > he
+20:38:16 191:004 > hei
+20:38:16 191:002 > height: ;
+20:38:19 191:010 > 2
+20:38:19 191:011 > 20
+20:38:19 191:012 > 200
+20:38:20 191:013 > 200p
+20:38:20 191:014 > 200px
+20:38:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+
+20:39:00 032:012 > t
+20:39:00 032:013 > te
+20:39:00 032:014 > tex
+20:39:00 032:015 > text
+20:39:02 032:012 > <textarea name="" id="" cols="30" rows="10"></textarea>
+20:39:03 032:028 > m
+20:39:03 032:029 > me
+20:39:03 032:030 > mes
+20:39:04 032:031 > mess
+20:39:04 032:032 > messa
+20:39:04 032:033 > messag
+20:39:04 032:034 > message
+20:39:06 032:041 > messagem
+20:39:06 032:042 > messageme
+20:39:06 032:043 > messagemes
+20:39:07 032:044 > messagemess
+20:39:07 032:045 > messagemessa
+20:39:07 032:046 > messagemessag
+20:39:07 032:047 > messagemessage
+
+20:39:19 031:043 > :
+
+20:39:22 032:056 > 2
+20:39:22 032:057 > 20
+20:39:26 032:056 > 203
+20:39:26 032:057 > 2030
+20:39:28 032:066 > 20305
+
+20:39:51 034:012 > i
+20:39:51 034:013 > in
+20:39:51 034:014 > inp
+20:39:51 034:015 > inpu
+20:39:52 034:012 > <input type="text">
+20:39:57 034:012 > u
+20:39:57 034:013 > un
+20:39:58 034:012 > uni
+20:39:58 034:013 > unin
+20:39:59 034:014 > uninp
+20:39:59 034:015 > uninpu
+20:40:06 034:012 > <input type="submit" value="">
+20:40:36 034:040 > s
+20:40:37 034:041 > su
+20:40:37 034:042 > sub
+20:40:37 034:043 > subm
+20:40:37 034:044 > submi
+20:40:38 034:045 > submit
+
+20:40:47 032:080 > <
+20:40:47 032:081 > <b
+20:40:48 032:082 > <br
+20:40:48 032:083 > <br>
+20:40:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:40:58 183:002 > b
+20:40:58 183:003 > ba
+20:40:59 183:004 > bac
+20:41:08 183:002 > rgb(76, 76, 76);
+20:41:12 183:002 > b
+20:41:12 183:003 > ba
+20:41:12 183:004 > bac
+20:41:13 183:002 > background-color: ;
+20:41:13 183:020 > rgb(76, 76, 76);
+
+20:41:22 184:002 > w
+20:41:22 184:003 > wi
+20:41:23 184:002 > width: ;
+20:41:24 184:009 > 6
+20:41:25 184:010 > 60
+20:41:25 184:011 > 600
+20:41:25 184:012 > 600p
+20:41:25 184:013 > 600px
+20:41:31 184:010 > 600px4
+20:41:32 184:009 > 600px44
+20:41:37 184:009 > 600px445
+
+20:41:45 185:002 > m
+20:41:45 185:003 > ma
+20:41:45 185:004 > mar
+20:41:47 185:002 > margin: ;
+20:41:48 185:010 > auto
+
+20:41:51 186:002 > b
+20:41:51 186:003 > bo
+20:41:51 186:004 > bor
+20:41:53 186:002 > border-radius: ;
+20:41:53 186:017 > 1
+20:41:53 186:018 > 10
+20:41:54 186:019 > 10p
+20:41:54 186:020 > 10px
+20:42:14 190:002 > rgb(76, 76, 76);
+
+20:42:17 190:002 > b
+20:42:17 190:003 > ba
+20:42:17 190:004 > bac
+20:42:18 190:005 > back
+20:42:18 190:002 > background-color: ;
+20:42:20 190:020 > rgb(76, 76, 76);
+20:42:24 190:020 > rgb(128, 128, 128)
+20:42:34 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:42:37 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:42:42 193:000 > .
+20:42:42 193:001 > .f
+20:42:42 193:002 > .fo
+20:42:42 193:003 > .for
+20:42:44 193:004 > .form
+20:42:49 193:006 > .form i
+20:42:49 193:007 > .form in
+20:42:49 193:008 > .form inp
+20:42:49 193:009 > .form inpu
+20:42:50 193:010 > .form input
+20:42:50 193:011 > {}
+
+20:42:53 194:002 > c
+20:42:53 194:003 > co
+20:42:53 194:004 > col
+20:42:53 194:005 > colo
+20:42:54 194:002 > color: ;
+20:42:55 194:009 > rgb(76, 76, 76);
+20:43:29 194:002 > b
+20:43:29 194:003 > ba
+20:43:29 194:004 > bac
+20:43:29 194:005 > back
+20:43:29 194:002 > background-color: ;
+20:43:30 194:020 > rgb(76, 76, 76);
+20:43:35 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:43:39 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:43:42 194:002 > s
+20:43:42 194:003 > st
+20:43:43 194:004 > sty
+20:43:43 194:005 > styl
+20:43:43 194:006 > style
+20:48:15 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:48:18 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:48:23 193:000 > c
+20:48:23 193:001 > co
+20:48:23 193:002 > con
+20:48:23 193:003 > cont
+20:48:23 193:004 > conta
+20:48:24 193:000 > .contact
+20:48:26 193:009 >  f
+20:48:26 193:010 >  fo
+20:48:27 193:011 >  for
+20:48:27 193:012 >  form
+20:48:34 193:014 >  form i
+20:48:34 193:015 >  form in
+20:48:34 193:016 >  form inp
+20:48:34 193:017 >  form inpu
+20:48:34 193:018 >  form input
+20:48:35 193:019 > {}
+
+20:48:36 194:002 > b
+20:48:36 194:003 > ba
+20:48:36 194:004 > bac
+20:48:36 194:005 > back
+20:48:37 194:002 > background-color: ;
+20:48:38 194:020 > rgb(76, 76, 76);
+
+20:48:56 189:000 > .
+20:48:56 189:001 > .c
+20:48:56 189:002 > .co
+20:48:56 189:003 > .con
+20:48:56 189:004 > .cont
+20:48:57 189:005 > .conta
+20:48:57 189:000 > .contact
+20:48:58 189:009 >  f
+20:48:58 189:010 >  fo
+20:48:58 189:011 >  for
+20:48:59 189:012 >  form
+
+20:49:00 190:002 > b
+20:49:01 190:003 > ba
+20:49:01 190:004 > bac
+20:49:01 190:005 > back
+20:49:01 190:002 > background-color: ;
+20:49:02 190:020 > rgb(76, 76, 76);
+20:49:07 190:020 > rgb(127, 127, 127)
+
+20:49:19 191:002 > w
+20:49:19 191:003 > wi
+20:49:19 191:004 > wid
+20:49:20 191:002 > width: ;
+20:49:22 191:009 > 3
+20:49:23 191:010 > 30
+20:49:23 191:011 > 300
+20:49:23 191:012 > 300p
+20:49:23 191:013 > 300px
+
+20:49:27 192:002 > m
+20:49:28 192:003 > ma
+20:49:28 192:004 > mar
+20:49:28 192:005 > marg
+20:49:28 192:006 > margi
+20:49:28 192:007 > margin
+20:49:29 192:002 > margin: ;
+20:49:29 192:010 > auto
+
+20:49:36 193:002 > b
+20:49:36 193:003 > bo
+20:49:37 193:004 > bor
+20:49:38 193:002 > border-radius: ;
+20:49:39 193:017 > 1
+20:49:39 193:018 > 10
+20:49:39 193:019 > 10p
+20:49:39 193:020 > 10px
+20:49:55 190:020 > rgb(70, 70, 70)
+20:49:59 190:020 > rgb(127, 127, 127)
+
+20:50:04 194:002 > p
+20:50:04 194:003 > pa
+20:50:04 194:004 > pad
+
+20:50:10 187:002 > p
+20:50:10 187:003 > pa
+20:50:10 187:004 > pad
+20:50:11 187:005 > padd
+20:50:11 187:006 > paddi
+20:50:11 187:007 > paddin
+20:50:11 187:002 > padding: ;
+20:50:12 187:011 > 1
+20:50:12 187:012 > 10
+20:50:12 187:013 > 10p
+20:50:12 187:014 > 10px
+
+20:50:27 188:002 > p
+20:50:27 188:003 > pa
+20:50:28 188:004 > pad
+20:50:28 188:005 > padd
+20:50:28 188:006 > paddi
+20:50:28 188:007 > paddin
+20:50:28 188:008 > padding
+20:50:30 188:002 > padding-bottom: ;
+20:50:30 188:018 > 1
+20:50:30 188:019 > 10
+20:50:31 188:020 > 10p
+20:50:31 188:021 > 10px
+20:50:36 188:018 > 10px2
+
+20:51:02 196:002 > p
+20:51:02 196:003 > pa
+20:51:02 196:004 > pad
+20:51:02 196:005 > padd
+20:51:03 196:002 > padding: ;
+20:51:03 196:011 > 1
+20:51:04 196:012 > 1+
+20:51:04 196:013 > 1+å
+20:51:04 196:014 > 1+åx
+20:51:06 196:012 > 1+åx0
+20:51:07 196:013 > 1+åx0p
+20:51:07 196:014 > 1+åx0px
+20:51:13 196:011 > 1+åx0px5
+20:51:22 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:51:29 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:51:33 191:000 > .
+20:51:33 191:001 > .c
+20:51:33 191:002 > .co
+20:51:33 191:003 > .con
+20:51:34 191:000 > .contact
+20:51:34 191:009 >  p
+20:51:35 191:010 > {}
+
+20:51:36 192:002 > p
+20:51:36 192:003 > pa
+20:51:36 192:004 > pad
+20:51:37 192:005 > padd
+20:51:38 192:002 > padding: ;
+20:51:40 192:009 > -
+20:51:40 192:010 > -b
+20:51:40 192:011 > -bo
+20:51:41 192:002 > padding-bottom:
+20:51:42 192:018 > 5
+20:51:43 192:019 > 5p
+20:51:43 192:020 > 5px
+
+20:51:56 204:002 > b
+20:51:58 204:002 > bb
+20:51:59 204:003 > bbr
+20:51:59 204:003 > bbro
+20:51:59 204:004 > bbror
+20:52:01 204:002 > border: ;
+20:52:03 204:010 > 1
+20:52:03 204:011 > 10
+20:52:03 204:012 > 10p
+20:52:03 204:013 > 10px
+20:52:04 204:014 > 10px,
+20:52:05 204:016 > 10px, s
+20:52:05 204:017 > 10px, so
+20:52:06 204:016 > solid
+20:52:07 204:021 > ,
+20:52:08 204:023 > , b
+20:52:08 204:024 > , bl
+20:52:08 204:025 > , bla
+20:52:08 204:023 > black
+20:52:14 204:002 > b
+20:52:14 204:003 > bo
+20:52:14 204:004 > bor
+20:52:15 204:005 > bord
+20:52:15 204:006 > borde
+20:52:15 204:007 > border
+20:52:16 204:002 > border: ;
+20:52:17 204:010 > 1
+20:52:17 204:011 > 10
+20:52:17 204:012 > 10p
+20:52:18 204:013 > 10px
+
+20:52:19 205:002 > b
+20:52:19 205:003 > bo
+20:52:19 205:004 > bor
+20:52:20 205:005 > bord
+20:52:20 205:006 > borde
+20:52:22 205:007 > border
+20:52:22 205:008 > border-
+20:52:22 205:009 > border-s
+20:52:23 205:002 > border-style: ;
+20:52:23 205:016 > s
+20:52:24 205:017 > so
+20:52:24 205:018 > sol
+20:52:24 205:016 > solid
+
+20:52:32 204:010 > 5
+
+20:52:38 206:002 > b
+20:52:38 206:003 > bo
+20:52:38 206:004 > bor
+20:52:38 206:005 > bord
+20:52:38 206:006 > borde
+20:52:38 206:007 > border
+20:52:39 206:002 > border-radius: ;
+20:52:40 206:017 > 1
+20:52:40 206:018 > 10
+20:52:41 206:019 > 10p
+20:52:41 206:020 > 10px
+20:52:49 206:017 > 10px5
+
+20:53:00 207:002 > b
+20:53:00 207:003 > bo
+20:53:00 207:004 > bor
+20:53:00 207:005 > bord
+20:53:00 207:006 > borde
+20:53:01 207:007 > border
+20:53:01 207:008 > border-
+20:53:01 207:009 > border-c
+20:53:08 207:002 > border-color: ;
+20:53:10 207:016 > rgb(76, 76, 76);
+
+20:53:32 210:000 > .
+20:53:32 210:001 > .c
+20:53:32 210:002 > .co
+20:53:32 210:003 > .con
+20:53:33 210:000 > .contact
+20:53:33 210:009 >  f
+20:53:33 210:010 >  fo
+20:53:33 210:011 >  for
+20:53:34 210:012 >  form
+20:53:34 210:014 >  form i
+20:53:34 210:015 >  form in
+20:53:34 210:016 >  form inp
+20:53:35 210:017 >  form inpu
+20:53:36 210:014 >  form input
+20:53:36 210:015 >  form inpute
+20:53:36 210:016 >  form inputex
+20:53:37 210:014 > textarea
+20:53:38 210:022 > {}
+
+20:53:41 211:002 > b
+20:53:41 211:003 > ba
+20:53:41 211:004 > bac
+20:53:41 211:005 > back
+20:53:42 211:002 > background-color: ;
+20:53:42 211:020 > rgb(127, 127, 127)
+20:53:53 211:002 > border: 5px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(76, 76, 76);
+
+20:53:59 208:002 > v
+20:54:00 208:002 > background-color: rgb(127, 127, 127);
+
+20:54:21 204:002 > p
+20:54:21 204:003 > pa
+20:54:21 204:004 > pad
+20:54:21 204:005 > padd
+20:54:22 204:006 > paddi
+20:54:22 204:002 > padding: ;
+20:54:23 204:011 > 5
+20:54:23 204:012 > 5p
+20:54:26 204:013 > 5px
+
+20:54:42 203:000 > .
+20:54:43 203:001 > .c
+20:54:43 203:002 > .co
+20:54:43 203:003 > .con
+20:54:43 203:000 > .contact
+20:54:45 203:009 >  f
+20:54:45 203:010 >  fo
+20:54:45 203:011 >  for
+20:54:46 203:012 >  form
+20:54:48 203:014 >  form l
+20:54:48 203:015 >  form la
+20:54:49 203:014 > label
+20:54:50 203:019 > {}
+
+20:54:51 204:002 > p
+20:54:51 204:003 > pa
+20:54:51 204:004 > pad
+20:54:52 204:005 > padd
+20:54:52 204:002 > padding: ;
+20:54:53 204:011 > 5
+20:54:53 204:012 > 5p
+20:54:53 204:013 > 5px
+20:54:58 204:011 > 5px1
+20:54:59 204:012 > 5px10
+20:54:59 204:013 > 5px10p
+20:54:59 204:014 > 5px10px
+20:55:05 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+
+20:55:47 025:057 > <
+20:55:47 025:058 > <b
+20:55:48 025:059 > <br
+20:55:49 025:060 > <br§
+20:55:52 025:060 > <br§>
+20:55:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:56:03 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:56:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:56:31 200:011 > 1
+20:56:31 200:012 > 10
+20:56:31 200:013 > 10p
+20:56:32 200:014 > 10px
+20:56:40 200:012 > 10px5
+20:56:45 200:011 > 10px55
+20:56:51 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:56:57 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:57:04 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:57:05 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:57:13 212:020 > rgb(184, 184, 184)
+20:57:23 212:020 > rgb(209, 209, 209)
+20:57:31 220:020 > rgb(209, 209, 209);
+20:57:48 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+
+20:57:55 034:019 > c
+20:57:55 034:020 > cl
+20:57:56 034:021 > cla
+20:57:56 034:022 > clas
+20:57:57 034:023 > class
+20:57:58 034:024 > class=
+20:57:59 034:025 > class="
+20:58:00 034:026 > class=""
+20:58:02 034:026 > class="" s
+20:58:02 034:027 > class="" su
+20:58:02 034:028 > class="" sub
+20:58:03 034:029 > class="" subm
+20:58:03 034:030 > class="" submi
+20:58:03 034:031 > class="" submit
+20:58:04 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+20:58:06 223:000 > .
+20:58:07 223:001 > .c
+20:58:07 223:002 > .co
+20:58:07 223:003 > .con
+20:58:07 223:000 > .contact
+20:58:10 223:009 >  f
+20:58:10 223:010 >  fo
+20:58:10 223:011 >  for
+20:58:10 223:012 >  form
+20:58:14 223:000 >  form.
+20:58:15 223:001 >  form.s
+20:58:15 223:002 >  form.su
+20:58:15 223:003 >  form.sub
+20:58:15 223:004 >  form.subm
+20:58:15 223:005 >  form.submi
+20:58:16 223:006 >  form.submit
+20:58:17 223:007 > {}
+
+20:58:18 224:002 > b
+20:58:18 224:003 > bo
+20:58:18 224:004 > bor
+20:58:18 224:005 > bord
+20:58:19 224:006 > borde
+20:58:19 224:007 > border
+20:58:20 224:002 > border: ;
+20:58:20 224:010 > n
+20:58:21 224:011 > no
+20:58:21 224:010 > none
+
+20:58:31 223:001 > c
+20:58:31 223:002 > co
+20:58:31 223:003 > con
+20:58:31 223:004 > cont
+20:58:31 223:005 > conta
+20:58:31 223:000 > .contact
+20:58:33 223:009 >  f
+20:58:33 223:010 >  fo
+20:58:33 223:011 >  for
+20:58:33 223:012 >  form
+20:58:35 223:014 >  form i
+20:58:35 223:015 >  form in
+20:58:35 223:016 >  form inp
+20:58:35 223:017 >  form inpu
+20:58:35 223:018 >  form input
+20:58:36 223:019 >  form input.
+20:58:36 223:020 >  form input.s
+20:58:36 223:021 >  form input.sb
+20:58:37 223:021 >  form input.sbu
+20:58:37 223:022 >  form input.sbub
+20:58:38 223:023 >  form input.sbubm
+20:58:38 223:024 >  form input.sbubmi
+20:58:38 223:025 >  form input.sbubmit
+
+20:59:49 000:000 > f
+20:59:50 000:001 > fo
+20:59:50 000:002 > for
+20:59:50 000:003 > form
+20:59:51 000:005 > form i
+20:59:51 000:007 > form i k
+20:59:51 000:008 > form i ko
+20:59:51 000:009 > form i kon
+20:59:52 000:010 > form i kont
+20:59:52 000:011 > form i konta
+20:59:52 000:012 > form i kontak
+20:59:52 000:013 > form i kontakt
+20:59:53 000:014 > form i kontakta
+20:59:53 000:016 > form i kontakta o
+20:59:53 000:017 > form i kontakta os
+20:59:53 000:018 > form i kontakta oss
+20:59:54 000:020 > form i kontakta oss s
+20:59:54 000:021 > form i kontakta oss si
+20:59:54 000:022 > form i kontakta oss sid
+20:59:54 000:023 > form i kontakta oss sida
+20:59:54 000:024 > form i kontakta oss sidan
+20:59:59 178:001 > /*Kontakta oss*/
+.contact{
+  background-color: rgb(76, 76, 76);
+  width: 500px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+.contact p{
+  padding-bottom: 5px;
+}
+
+.contact form{
+  background-color: rgb(127, 127, 127);
+  width: 300px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.contact form label{
+  padding: 10px;
+}
+
+.contact form input{
+  border: 5px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(76, 76, 76);
+  background-color: rgb(209, 209, 209);
+}
+
+.contact form textarea{
+  border: 5px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(76, 76, 76);
+  background-color: rgb(209, 209, 209);
+}
+
+.contact form input.submit{
+  border: none;
+}
+21:08:10 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+21:08:11 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+21:08:16 007:004 > <link rel="stylesheet" href="style.css" />
+
+21:08:19 007:033 > l
+21:08:19 007:034 > li
+21:08:19 007:033 > lightmode.css
+21:08:23 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+21:08:24 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+21:08:27 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+21:08:29 007:004 > <link rel="stylesheet" href="lightmode.css" />
+21:08:32 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+21:08:35 007:004 > <link rel="stylesheet" href="lightmode.css" />
+21:08:36 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+21:08:37 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+21:08:39 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+21:09:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+
+21:09:30 011:006 > b
+21:09:30 011:007 > bu
+21:09:30 011:008 > but
+21:09:30 011:009 > butt
+21:09:32 011:006 > <button></button>
+21:09:36 011:014 > L
+21:09:37 011:015 > Li
+21:09:38 011:016 > Lig
+21:09:38 011:017 > Ligh
+21:09:38 011:018 > Light
+21:09:39 011:019 > Lightm
+21:09:39 011:020 > Lightmo
+21:09:39 011:021 > Lightmod
+21:09:39 011:022 > Lightmode
+21:09:49 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+21:09:51 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+21:10:01 086:000 > .menu li a:hover {
+
+}
+21:10:12 088:002 > background-color: white;
+21:10:24 088:020 > rgb(142, 142, 142)
+
+21:10:45 088:002 > i
+21:10:45 088:003 > if
+21:11:26 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+21:11:34 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+21:11:36 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+21:11:39 034:000 > .
+21:11:41 034:001 > .b
+21:11:41 034:002 > .bu
+21:11:41 034:003 > .but
+21:11:41 034:004 > .butt
+21:11:41 034:005 > .butto
+21:11:41 034:006 > .button
+21:11:46 034:000 > .button.
+21:11:46 034:001 > .button.c
+21:11:47 034:002 > .button.co
+21:11:47 034:003 > .button.con
+21:11:47 034:000 > .contact
+21:11:48 034:005 > a
+21:11:48 034:006 > ai
+21:11:49 034:007 > ain
+21:11:49 034:008 > aine
+21:11:49 034:009 > ainer
+21:11:50 034:011 > ainer b
+21:11:50 034:012 > ainer bu
+21:11:50 034:013 > ainer but
+21:11:50 034:014 > ainer butt
+21:11:50 034:015 > ainer butto
+21:11:50 034:016 > ainer button
+21:11:51 034:017 > {}
+
+21:11:57 035:002 > p
+21:11:57 035:003 > po
+21:11:57 035:004 > pos
+21:11:59 035:002 > position: relative;
+21:12:00 035:012 >  r
+21:12:00 035:013 >  re
+21:12:01 035:012 > relative
+21:12:05 035:012 > a
+21:12:06 035:012 > absolute
+21:12:22 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+21:12:23 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+21:12:24 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+21:12:26 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+21:12:33 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+
+21:13:02 000:000 > d
+21:13:03 000:001 > do
+21:13:03 000:002 > doc
+21:13:03 000:003 > docu
+21:13:04 000:000 > document
+21:13:04 000:008 > .
+21:13:04 000:009 > .q
+21:13:05 000:010 > .qu
+21:13:05 000:011 > .que
+21:13:06 000:008 > .querySelector
+21:13:07 000:022 > )
+21:13:09 000:022 > ()
+21:13:09 000:023 > ""
+21:13:10 000:024 > b
+21:13:10 000:025 > bu
+21:13:10 000:026 > but
+21:13:11 000:024 > button
+21:13:12 000:032 > .
+21:13:15 000:033 > .a
+21:13:15 000:034 > .ad
+21:13:15 000:035 > .add
+21:13:16 000:032 > .addEventListener
+21:13:18 000:049 > ()
+21:13:18 000:050 > ""
+21:13:21 000:051 > c
+21:13:21 000:052 > cl
+21:13:21 000:053 > cli
+21:13:21 000:051 > click
+21:13:31 000:057 > ,
+21:13:31 000:059 > , f
+21:13:32 000:060 > , fu
+21:13:32 000:061 > , fun
+21:13:32 000:062 > , func
+21:13:32 000:059 > function
+21:13:43 000:067 > ()
+21:13:45 000:069 > {}
+21:14:26 000:000 > b
+21:14:27 000:001 > bö
+21:14:27 000:002 > bör
+21:14:27 000:003 > börj
+21:14:27 000:004 > börja
+21:14:28 000:005 > börjat
+21:14:28 000:007 > börjat p
+21:14:28 000:008 > börjat på
+21:14:29 000:010 > börjat på l
+21:14:29 000:011 > börjat på li
+21:14:30 000:012 > börjat på lig
+21:14:30 000:013 > börjat på ligh
+21:14:30 000:014 > börjat på light
+21:14:30 000:015 > börjat på lightm
+21:14:31 000:016 > börjat på lightmo
+21:14:31 000:017 > börjat på lightmod
+21:14:31 000:018 > börjat på lightmode
+21:14:34 034:000 > .container button{
+  position: absolute;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.banner {
+    width: 600px;
+    border-radius: 10px;
+}
+
+.logo {
+  position: absolute;
+  top: 125px;
+  left: 695px;
+  width: 150px;
+  border-radius: 100px;
+}
+
+.name {
+  position: absolute;
+  top: 275px;
+  left: 675px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+
+/* meny */
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
+.menu li {
+  list-style-type: none;
+  margin: auto;
+  padding: 10px;
+}
+
+.menu li a {
+  text-decoration: none;
+  background-color: rgb(123, 122, 122);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 11px;
+  color: black;
+  text-align: center;
+  box-shadow: 1px 1px 1px black;
+}
+
+.menu li a.active {
+  background-color: white;
+}
+
+.menu li a:hover {
+  background-color: rgb(142, 142, 142);
+21:14:34 007:000 > <link rel="stylesheet" href="lightmode.css" />
+21:14:34 000:000 > document.querySelector("button").addEventListener("click", function(){
+    
+})

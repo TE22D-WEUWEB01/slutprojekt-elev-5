@@ -1,0 +1,531 @@
+24-05-22 20:04 Session started
+----------------------------------------
+20:04:16 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+20:05:27 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+20:05:28 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:05:36 000:000 > r
+20:05:36 000:001 > re
+20:05:37 000:002 > res
+20:05:37 000:003 > rese
+20:05:37 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+20:05:42 013:000 > b
+20:05:45 013:001 > bo
+20:05:45 013:002 > bod
+20:05:45 013:003 > body
+20:05:46 013:004 > body.
+20:05:47 013:005 > body.l
+20:05:47 013:006 > body.li
+20:05:47 013:007 > body.lig
+20:05:48 013:008 > body.ligh
+20:05:48 013:009 > body.light
+20:05:49 013:010 > {}
+
+20:06:01 014:004 > b
+20:06:02 014:005 > ba
+20:06:02 014:006 > bac
+20:06:02 014:007 > back
+20:06:03 014:004 > background-color: ;
+20:06:04 014:022 > w
+20:06:05 014:023 > wh
+20:06:05 014:024 > whi
+20:06:07 014:022 > white
+20:06:13 014:022 > rgb(202, 202, 202)
+20:06:14 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+20:06:30 001:004 > document.body.classList.toggle("dark");
+
+20:06:34 001:036 > l
+20:06:35 001:037 > li
+20:06:35 001:038 > lig
+20:06:35 001:039 > ligh
+20:06:35 001:040 > light
+20:06:41 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:06:44 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+20:07:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:08:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:08:06 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:08:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+20:08:11 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:08:13 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.js
+----------------------------------------
+20:11:01 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:11:21 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:11:30 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:11:37 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:12:06 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:12:06 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:12:07 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:12:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:13:17 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:13:22 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:13:25 001:014 > light-
+20:13:25 001:015 > light-c
+20:13:25 001:016 > light-co
+20:13:26 001:017 > light-col
+20:13:26 001:018 > light-colo
+20:13:26 001:019 > light-color
+20:13:30 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:13:49 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:13:52 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:15:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+
+20:15:57 000:023 > '
+20:15:59 000:030 > ''
+20:16:02 000:050 > '''
+20:16:03 000:056 > ''''
+20:16:42 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:16:46 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:16:52 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:17:06 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:17:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:17:38 004:000 > document.querySelector('button').addEventListener('click', function(){
+    // Byt bakgrund
+    document.body.classList.toggle("dark");
+20:17:41 000:000 > /
+20:17:41 000:001 > /*
+
+20:17:44 002:002 > *
+20:17:44 002:003 > */
+
+20:18:01 007:000 > ]
+20:18:01 007:001 > ]}
+20:18:03 007:000 > ]})
+20:18:04 007:001 > ]})}
+20:18:14 007:000 > ]})}}
+20:18:15 007:001 > ]})}})
+20:18:21 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+
+20:18:24 000:005 > d
+20:18:24 000:006 > da
+20:18:24 000:007 > dar
+20:18:24 000:008 > dark
+20:18:42 000:005 > darkl
+20:18:42 000:006 > darkli
+20:18:42 000:007 > darklig
+20:18:42 000:008 > darkligh
+20:18:42 000:009 > darklight
+20:18:45 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:18:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:18:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:18:58 000:023 > darklight"
+20:19:00 000:030 > darklight""
+20:19:03 000:050 > darklight"""
+20:19:05 000:056 > darklight""""
+20:19:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:19:10 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:20:26 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:20:30 000:050 > darklight""""*
+20:20:31 000:050 > darklight""""*'
+20:20:34 000:056 > darklight""""*''
+20:20:36 000:030 > darklight""""*'''
+20:20:38 000:023 > darklight""""*''''
+20:21:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+
+20:21:51 063:004 > <
+20:21:52 063:005 > <s
+20:21:52 063:006 > <sc
+20:21:53 063:005 > script
+20:21:56 063:004 > s
+20:21:56 063:005 > sc
+20:21:57 063:006 > scr
+20:21:57 063:004 > <script></script>
+20:22:03 063:004 > <
+20:22:04 063:002 > <s
+20:22:05 063:002 > <s></s>
+20:22:10 063:004 > s
+20:22:10 063:005 > sc
+20:22:11 063:004 > <script src=""></script>
+20:22:13 063:017 > s
+20:22:14 063:018 > sc
+20:22:14 063:019 > scr
+20:22:14 063:017 > script.js
+20:22:43 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:22:44 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:22:45 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:23:15 002:004 > document.querySelector('.container').classList.toggle('dark');
+20:23:23 002:057 > ()
+20:23:25 002:058 > ""
+
+20:23:25 002:059 > l
+20:23:25 002:060 > li
+20:23:26 002:061 > lig
+20:23:26 002:062 > ligh
+20:23:26 002:063 > light
+20:23:30 002:027 > ""
+20:23:31 002:028 > l
+20:23:31 002:029 > li
+20:23:31 002:030 > lig
+20:23:31 002:031 > ligh
+20:23:33 002:028 > ligh.
+20:23:34 002:029 > ligh.c
+20:23:34 002:030 > ligh.co
+20:23:34 002:031 > ligh.con
+20:23:35 002:032 > ligh.cont
+20:23:35 002:033 > ligh.conta
+20:23:35 002:034 > ligh.contai
+20:23:35 002:035 > ligh.contain
+20:23:36 002:036 > ligh.containe
+20:23:36 002:037 > ligh.container
+20:23:43 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:23:45 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:23:52 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+
+20:24:05 004:000 > .
+20:24:06 004:001 > .c
+20:24:06 004:002 > .co
+20:24:06 004:003 > .con
+20:24:07 004:004 > .cont
+20:24:07 004:005 > .conta
+20:24:07 004:006 > .contai
+20:24:07 004:007 > .contain
+20:24:07 004:008 > .containe
+20:24:07 004:009 > .container
+20:24:15 004:000 > .container.
+20:24:16 004:001 > .container.c
+20:24:16 004:002 > .container.co
+20:24:16 004:003 > .container.con
+20:24:16 004:004 > .container.cont
+20:24:16 004:005 > .container.conta
+20:24:16 004:006 > .container.contai
+20:24:16 004:007 > .container.contain
+20:24:16 004:008 > .container.containe
+20:24:17 004:009 > .container.container
+20:24:17 004:010 > .container.container.
+20:24:17 004:011 > .container.container.d
+20:24:17 004:012 > .container.container.da
+20:24:17 004:013 > .container.container.dar
+20:24:17 004:014 > .container.container.dark
+20:24:19 004:015 > {}
+20:24:23 004:011 > l
+20:24:23 004:012 > li
+20:24:23 004:013 > lig
+20:24:23 004:014 > ligh
+20:24:23 004:015 > light
+
+20:24:25 005:004 > b
+20:24:26 005:005 > ba
+20:24:26 005:006 > bac
+20:24:26 005:007 > back
+20:24:26 005:004 > background-color: ;
+20:24:27 005:022 > w
+20:24:27 005:023 > wh
+20:24:27 005:024 > whi
+20:24:27 005:025 > whit
+20:24:28 005:026 > white
+20:24:28 005:022 > white
+20:24:37 005:022 > rgb(205, 205, 205)
+20:24:46 001:022 > rgb(170, 170, 170)
+20:25:10 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:25:25 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:25:26 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+
+20:25:28 003:004 > d
+20:25:28 003:005 > do
+20:25:29 003:006 > doc
+20:25:29 003:007 > docu
+20:25:29 003:008 > docum
+20:25:29 003:009 > docume
+20:25:29 003:010 > documen
+20:25:29 003:011 > document
+20:25:30 003:004 > document
+20:25:30 003:012 > .
+20:25:30 003:013 > .q
+20:25:30 003:014 > .qu
+20:25:33 003:012 > .querySelector
+20:25:34 003:026 > ()
+20:25:34 003:027 > ""
+20:25:35 003:028 > .
+20:25:36 003:029 > .m
+20:25:36 003:030 > .ma
+20:25:36 003:031 > .mat
+20:25:36 003:032 > .matc
+20:25:36 003:033 > .match
+20:25:36 003:034 > .matche
+20:25:37 003:035 > .matches
+20:25:39 003:038 > .matches.
+20:25:39 003:039 > .matches.c
+20:25:39 003:040 > .matches.cl
+20:25:40 003:041 > .matches.cla
+20:25:40 003:038 > .classList
+20:25:41 003:048 > .
+20:25:41 003:049 > .t
+20:25:41 003:050 > .to
+20:25:42 003:048 > .toString
+20:25:43 003:051 > g
+20:25:44 003:052 > gg
+20:25:44 003:049 > toggle
+20:25:45 003:055 > ()
+20:25:47 003:056 > ""
+20:25:47 003:057 > l
+20:25:47 003:058 > li
+20:25:47 003:059 > lig
+20:25:47 003:060 > ligh
+20:25:47 003:061 > light
+20:25:49 003:064 > light;
+20:25:50 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+
+20:25:53 008:000 > .
+20:25:54 008:001 > .m
+20:25:54 008:002 > .ma
+20:25:54 008:003 > .mat
+20:25:55 008:004 > .matc
+20:25:55 008:005 > .match
+20:25:55 008:006 > .matche
+20:25:55 008:007 > .matches
+20:25:56 008:008 > .matches.
+20:25:56 008:009 > .matches.l
+20:25:56 008:010 > .matches.li
+20:25:56 008:011 > .matches.lig
+20:25:56 008:012 > .matches.ligh
+20:25:56 008:013 > .matches.light
+20:25:58 008:014 > {}
+20:26:03 009:004 > background-color: rgb(205, 205, 205);
+20:26:11 009:022 > rgb(231, 231, 231)
+20:26:23 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:26:28 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:26:33 004:004 > document.querySelector(".matches").classList.toggle("light");
+
+20:26:37 004:029 > u
+20:26:37 004:030 > up
+20:26:37 004:031 > upc
+20:26:37 004:032 > upco
+20:26:37 004:033 > upcom
+20:26:38 004:034 > upcomi
+20:26:38 004:035 > upcomin
+20:26:38 004:036 > upcoming
+20:26:40 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:26:43 012:000 > .matches.light{
+    background-color: rgb(231, 231, 231);
+}
+
+20:27:04 012:001 > u
+20:27:04 012:002 > up
+20:27:05 012:003 > upc
+20:27:05 012:004 > upco
+20:27:05 012:005 > upcom
+20:27:05 012:006 > upcomi
+20:27:05 012:007 > upcomin
+20:27:05 012:008 > upcoming
+20:27:14 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:27:21 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:27:23 011:008 > <button>Lightmode</button>
+20:27:24 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:27:26 011:006 > <button>Lightmode</button>
+20:27:27 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:27:28 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:27:31 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+20:27:37 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:27:40 031:008 > <script src="script.js"></script>
+20:27:41 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:27:44 039:008 > <script src="script.js"></script>
+20:27:45 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:27:58 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:28:00 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:28:15 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:28:17 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:28:19 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:28:30 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:28:40 007:004 > document.querySelector(".upcoming").classList.toggle("light");
+
+20:28:43 007:029 > a
+20:28:44 007:030 > ab
+20:28:44 007:031 > abo
+20:28:44 007:032 > abou
+20:28:44 007:033 > about
+20:28:48 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+
+20:28:51 016:000 > .
+20:28:51 016:001 > .a
+20:28:51 016:002 > .ab
+20:28:51 016:003 > .abo
+20:28:51 016:004 > .abou
+20:28:52 016:005 > .about
+20:28:53 016:006 > .about.
+20:28:53 016:007 > .about.l
+20:28:53 016:008 > .about.li
+20:28:54 016:009 > .about.lig
+20:28:54 016:010 > .about.ligh
+20:28:54 016:011 > .about.light
+20:28:54 016:012 > {}
+20:29:00 017:004 > background-color: rgb(231, 231, 231);
+20:29:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:29:08 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:29:26 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:29:29 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:29:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:30:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:30:10 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:30:11 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:30:21 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+20:30:24 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:30:27 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:30:39 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:30:54 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:31:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:31:10 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:31:22 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+20:31:32 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:31:58 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:32:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:32:03 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:32:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:32:22 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:32:25 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:32:28 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:32:29 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:32:33 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:32:40 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:32:41 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:32:43 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\script.js
+----------------------------------------
+20:33:05 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+20:33:07 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+20:33:09 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\lightmode.css
+----------------------------------------
+
+20:33:28 000:000 > j
+20:33:28 000:001 > jo
+20:33:28 000:002 > job
+20:33:28 000:003 > jobb
+20:33:29 000:004 > jobba
+20:33:29 000:005 > jobbat
+20:33:29 000:007 > jobbat p
+20:33:29 000:008 > jobbat på
+20:33:29 000:010 > jobbat på l
+20:33:30 000:011 > jobbat på li
+20:33:30 000:012 > jobbat på lig
+20:33:30 000:013 > jobbat på ligt
+20:33:31 000:013 > jobbat på ligth
+20:33:31 000:014 > jobbat på ligtht
+20:33:31 000:015 > jobbat på ligthtm
+20:33:31 000:016 > jobbat på ligthtmo
+20:33:31 000:017 > jobbat på ligthtmod
+20:33:31 000:018 > jobbat på ligthtmode
+20:33:34 000:000 > body.light{
+    background-color: rgb(170, 170, 170);
+}
+
+.container.light{
+    background-color: rgb(205, 205, 205);
+}
+
+.matches.light{
+    background-color: rgb(231, 231, 231);
+}
+
+.upcoming.light{
+    background-color: rgb(231, 231, 231);
+}
+
+.about.light{
+    background-color: rgb(231, 231, 231);
+}
+21:32:34 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------

@@ -1,0 +1,471 @@
+24-05-14 10:34 Session started
+----------------------------------------
+10:34:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+10:34:02 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+10:34:03 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+10:34:04 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\index.html
+----------------------------------------
+10:34:11 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:34:14 000:000 > h
+10:34:14 000:001 > ht
+10:34:15 000:000 > <!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+</body>
+</html>
+
+10:34:28 009:004 > .
+10:34:33 009:004 > ..
+10:34:33 009:005 > ..c
+10:34:33 009:006 > ..co
+10:34:33 009:007 > ..con
+10:34:34 009:008 > ..cont
+10:34:34 009:009 > ..conta
+10:34:34 009:010 > ..contai
+10:34:34 009:011 > ..contain
+10:34:34 009:012 > ..containe
+10:34:34 009:013 > ..container
+10:34:35 009:004 > <div class="container"></div>
+10:36:30 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\sida1.html
+----------------------------------------
+10:36:35 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:36:38 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\sida1.html
+----------------------------------------
+10:36:43 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+
+10:36:52 005:011 > S
+10:36:52 005:012 > St
+10:36:53 005:012 > Sta
+10:36:53 005:013 > Stat
+10:36:53 005:014 > Statt
+10:36:53 005:015 > Statta
+10:36:54 005:016 > Stattar
+10:36:54 005:017 > Stattars
+10:36:54 005:019 > Stattars S
+10:36:54 005:020 > Stattars Sl
+10:36:54 005:021 > Stattars Sla
+10:36:54 005:022 > Stattars Slav
+10:36:55 005:023 > Stattars Slava
+10:36:55 005:024 > Stattars Slavar
+
+10:37:02 010:010 > S
+10:37:02 010:011 > Sa
+10:37:02 010:012 > Sat
+10:37:02 010:013 > Satt
+10:37:03 010:014 > Satta
+10:37:03 010:015 > Sattar
+10:37:03 010:016 > Sattars
+10:37:03 010:018 > Sattars S
+10:37:03 010:019 > Sattars Sl
+10:37:03 010:020 > Sattars Sla
+10:37:04 010:021 > Sattars Slav
+10:37:04 010:022 > Sattars Slava
+10:37:04 010:023 > Sattars Slavar
+
+10:37:19 012:048 > H
+10:37:19 012:049 > He
+10:37:19 012:050 > Hem
+
+10:37:28 014:033 > K
+10:37:29 014:034 > Ko
+10:37:29 014:035 > Kon
+10:37:29 014:036 > Kont
+10:37:29 014:037 > Konta
+10:37:29 014:038 > Kontak
+10:37:29 014:039 > Kontakt
+
+10:37:32 013:033 > O
+10:37:32 013:034 > Om
+10:37:33 013:036 > Om o
+10:37:33 013:037 > Om os
+10:37:33 013:038 > Om oss
+10:37:39 013:021 > Om ossa
+10:37:39 013:022 > Om ossab
+10:37:40 013:023 > Om ossabo
+10:37:40 013:024 > Om ossabou
+10:37:40 013:025 > Om ossabout
+
+10:37:43 014:021 > c
+10:37:43 014:022 > co
+10:37:43 014:023 > con
+10:37:43 014:024 > cont
+10:37:44 014:025 > conta
+10:37:44 014:026 > contac
+10:37:44 014:027 > contact
+
+10:37:48 011:020 > u
+10:38:11 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+10:38:12 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+10:38:13 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+10:38:13 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:38:18 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+10:38:18 000:000 > /* Enkel CSS-reset */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* färger */
+:root {
+  /* CSS HEX */
+  --hookers-green: #507255ff;
+  --sea-green: #488b49ff;
+  --pigment-green: #4aad52ff;
+  --mantis: #6eb257ff;
+  --pear: #c5e063ff;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  padding: 50px;
+  background-color: var(--pigment-green);
+}
+
+.container h1 {
+  text-align: center;
+}
+
+/* meny */
+.meny {
+  display: flex;
+  gap: 20px;
+}
+
+.meny li {
+  list-style-type: none;
+  margin: auto;
+}
+
+.meny li a {
+  text-decoration: none;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 11px;
+  text-align: center;
+  box-shadow: 1px 1px 1px black;
+}
+
+.meny li a.active {
+  background-color: var(--pear);
+}
+
+.meny li a:hover {
+  background-color: var(--mantis);
+}
+
+/* innehåll */
+.container h2 {
+  text-align: center;
+}
+
+.container figure {
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+  background-color: var(--mantis);
+}
+
+.container figure img {
+  width: 100%;
+}
+
+10:38:35 033:004 > u
+
+10:38:37 038:004 > u
+
+10:38:39 043:004 > u
+
+10:38:42 054:004 > u
+
+10:38:44 058:004 > u
+10:39:03 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+
+10:39:12 012:036 > h
+10:39:12 012:037 > ho
+10:39:12 012:038 > hom
+10:39:12 012:039 > home
+10:40:24 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+
+10:42:15 010:006 > <
+10:42:15 010:007 > <f
+10:42:15 010:008 > <fi
+10:42:15 010:009 > <fig
+10:42:18 010:007 > <figi
+10:42:18 010:008 > <figim
+10:42:19 010:007 > img
+10:42:20 010:010 > >
+10:42:22 010:006 > >i
+10:42:22 010:007 > >im
+10:42:22 010:008 > >img
+10:42:23 010:006 > <img src="" alt="">
+10:42:26 010:016 > i
+10:42:27 010:017 > im
+10:42:27 010:018 > ima
+10:42:27 010:016 > images/
+10:42:28 010:023 > csgo-banner2-1.jpg
+10:42:31 010:048 > b
+10:42:31 010:049 > ba
+10:42:31 010:050 > ban
+10:42:32 010:051 > bann
+10:42:32 010:052 > banne
+10:42:32 010:053 > banner
+10:42:44 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+10:42:54 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+10:42:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:43:10 010:011 > bannerc
+10:43:10 010:012 > bannercl
+10:43:10 010:013 > bannercla
+10:43:10 010:014 > bannerclas
+10:43:10 010:015 > bannerclass
+10:43:15 010:011 > bannerclass  c
+10:43:15 010:012 > bannerclass  cl
+10:43:15 010:013 > bannerclass  cla
+10:43:15 010:014 > bannerclass  clas
+10:43:15 010:011 > class=""
+10:43:17 010:018 > b
+10:43:17 010:019 > ba
+10:43:17 010:020 > ban
+10:43:17 010:021 > bann
+10:43:17 010:022 > banne
+10:43:17 010:023 > banner
+10:43:19 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+10:43:22 032:000 > .
+10:43:22 032:001 > .c
+10:43:22 032:002 > .co
+10:43:22 032:003 > .con
+10:43:22 032:004 > .cont
+10:43:23 032:005 > .conta
+10:43:23 032:006 > .contai
+10:43:23 032:007 > .contain
+10:43:24 032:008 > .containe
+10:43:24 032:009 > .container
+10:43:24 032:011 > .container b
+10:43:24 032:012 > .container ba
+10:43:25 032:013 > .container ban
+10:43:25 032:014 > .container bann
+10:43:25 032:015 > .container banne
+10:43:25 032:016 > .container banner
+10:43:27 032:018 > {}
+10:43:30 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+10:43:31 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+10:43:38 032:001 > b
+10:43:39 032:002 > ba
+10:43:39 032:003 > ban
+10:43:39 032:004 > bann
+10:43:39 032:005 > banne
+10:43:39 032:006 > banner
+
+10:43:45 033:004 > w
+10:43:45 033:005 > wi
+10:43:46 033:006 > wid
+10:43:55 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+10:43:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+10:43:56 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:43:58 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+10:44:15 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\contact.html
+----------------------------------------
+10:44:15 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+10:44:16 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:44:25 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+10:44:30 032:000 > .
+10:44:31 032:001 > .c
+10:44:31 032:002 > .co
+10:44:31 032:003 > .con
+10:44:31 032:000 > .container
+10:44:32 032:011 >  i
+10:44:32 032:012 >  im
+10:44:34 032:011 > img
+10:44:35 032:015 > {}
+
+10:44:36 033:004 > s
+10:44:36 033:005 > si
+10:44:38 033:004 > size: ;
+10:44:39 033:010 > a
+10:44:41 033:004 > aw
+10:44:41 033:005 > awi
+10:44:42 033:004 > width: ;
+10:44:42 033:011 > a
+10:44:43 033:011 > auto
+10:44:58 033:011 > f
+10:44:58 033:012 > fl
+10:44:58 033:013 > fle
+10:45:01 033:009 > fle :
+10:45:12 033:010 > fit-content
+10:45:17 033:011 >  a
+10:45:17 033:012 >  au
+10:45:17 033:011 > auto
+
+10:45:19 034:004 > h
+10:45:19 034:005 > he
+10:45:20 034:004 > height: ;
+10:45:21 034:012 > a
+10:45:21 034:012 > auto
+10:45:25 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:45:39 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+10:45:59 033:011 > 6
+10:45:59 033:012 > 60
+10:46:00 033:013 > 600
+10:46:00 033:014 > 600p
+10:46:00 033:015 > 600px
+10:46:12 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\about.html
+----------------------------------------
+10:46:12 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:46:25 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:46:25 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
+
+10:47:03 000:000 > 1
+10:47:08 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\home.html
+----------------------------------------
+10:47:12 000:000 > 1i
+10:47:12 000:001 > 1im
+10:47:12 000:002 > 1ima
+10:47:13 000:003 > 1imag
+10:47:13 000:004 > 1image
+10:47:15 000:000 > <!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>Sattars Slavar</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <img src="images/csgo-banner2-1.jpg" alt="banner">
+      <h1>Sattars Slavar</h1>
+      <ul class="menu">
+        <li><a class="active" href="home.html">Hem</a></li>
+        <li><a href="about.html">Om oss</a></li>
+        <li><a href="contact.html">Kontakt</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+10:47:15 000:000 > /* Enkel CSS-reset */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  padding: 50px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.container img {
+    width: 600px;
+}
+
+
+/* meny */
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
+.menu li {
+  list-style-type: none;
+  margin: auto;
+}
+
+.menu li a {
+  text-decoration: none;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 11px;
+  text-align: center;
+  box-shadow: 1px 1px 1px black;
+}
+
+.menu li a.active {
+  background-color: var(--pear);
+}
+
+.menu li a:hover {
+  background-color: var(--mantis);
+}
+10:47:32 Document switched to: c:\Users\simon.rosen2\github-classroom\TE22D-WEUWEB01\webbplats-TE22D-Simon-Rosen\slutprojekt-TE22D-Simon-Rosen\style.css
+----------------------------------------
